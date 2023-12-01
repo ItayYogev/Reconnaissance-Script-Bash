@@ -3,6 +3,9 @@
 
 Recon Toolkit is a Bash script designed to streamline and automate reconnaissance tasks, providing a convenient interface for various information gathering processes. Whether you're conducting research on individuals or investigating domains, this toolkit offers a modular and user-friendly approach.
 
+## Demo
+
+[![Reconnaissance Script](https://img.youtube.com/vi/H2JQGGuIK58/0.jpg)](https://www.youtube.com/watch?v=H2JQGGuIK58)
 
 ## Features
 
@@ -11,8 +14,6 @@ Recon Toolkit is a Bash script designed to streamline and automate reconnaissanc
 - Domain Reconnaissance: Gather information about a domain, including DNS details, reverse IP lookups, and more.
 - Robots.txt Analysis: Explore and analyze a domain's robots.txt file, and open relevant links in Firefox for further investigation.
 
-
-## Demo
 ## Prerequisites
 - Bash shell environment
 - Firefox browser installed
